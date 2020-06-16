@@ -1,4 +1,7 @@
+```
 // https://codeforces.com/gym/276996/problem/A
+// Book Reading
+// Author: Aman Kumar
 
 #include <bits/stdc++.h>
 
@@ -55,3 +58,4 @@ int main()
 	}
 	return 0 ;
 }
+```
