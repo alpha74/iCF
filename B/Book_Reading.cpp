@@ -1,4 +1,3 @@
-```
 // https://codeforces.com/gym/276996/problem/A
 // Book Reading
 // Author: Aman Kumar
@@ -58,4 +57,3 @@ int main()
 	}
 	return 0 ;
 }
-```
