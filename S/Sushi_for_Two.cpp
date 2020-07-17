@@ -1,4 +1,6 @@
+// Sushi for Two
 // https://codeforces.com/gym/277353/problem/D
+// Author: Aman Kumar
 
 #include <bits/stdc++.h>
 
