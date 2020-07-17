@@ -1,6 +1,6 @@
-```
-// https://codeforces.com/contest/1367/problem/A
 // Short Substrings
+// https://codeforces.com/contest/1367/problem/A
+// Author: Aman Kumar
 #include <bits/stdc++.h>
 
 using namespace std ;
@@ -45,4 +45,3 @@ int main()
 	}
 	return 0 ;
 }
-```
