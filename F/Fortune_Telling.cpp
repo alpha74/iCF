@@ -1,4 +1,6 @@
+// Fortune Telling
 // https://codeforces.com/gym/276996/problem/G
+// Author: Aman Kumar
 
 #include <bits/stdc++.h>
 
