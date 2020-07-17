@@ -1,5 +1,6 @@
 // Restore the Permutation by Merger
 // https://codeforces.com/contest/1385/problem/B
+// Author: Aman Kumar
 // Select unique elements in order as they appear.
 
 
