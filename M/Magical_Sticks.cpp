@@ -1,4 +1,6 @@
+// Magical Sticks
 // https://codeforces.com/contest/1371/problem/A
+// Author: Aman Kumar
 
 #include <bits/stdc++.h>
 
