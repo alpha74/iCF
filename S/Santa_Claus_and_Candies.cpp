@@ -1,4 +1,6 @@
+// Santa Claus and Candies
 // https://codeforces.com/gym/277514/problem/A
+// Author: Aman Kumar
 // Uses backtracking.
 
 #include <bits/stdc++.h>
