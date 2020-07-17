@@ -1,4 +1,6 @@
-https://codeforces.com/gym/277157/problem/D
+// Photo to Remember
+// https://codeforces.com/gym/277157/problem/D
+// Author: Aman Kumar
 
 #include <bits/stdc++.h>
 
