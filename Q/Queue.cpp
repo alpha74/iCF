@@ -1,4 +1,6 @@
+// Queue
 // https://codeforces.com/gym/277804/problem/B
+// Author: Aman Kumar
 
 #include <bits/stdc++.h>
 
