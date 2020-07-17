@@ -1,7 +1,6 @@
-
-```
-// https://codeforces.com/contest/1367/problem/B
 // Even Array
+// https://codeforces.com/contest/1367/problem/B
+// Author: Aman Kumar
 
 #include <bits/stdc++.h>
 
@@ -60,4 +59,3 @@ int main()
 	}
 	return 0 ;
 }
-```
