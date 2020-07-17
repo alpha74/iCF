@@ -1,5 +1,6 @@
 // Make It Good
 // Find indices where order changes
+// Author: Aman Kumar
 // https://codeforces.com/contest/1385/problem/C
 
 #include <bits/stdc++.h>
