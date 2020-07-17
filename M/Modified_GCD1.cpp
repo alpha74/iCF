@@ -1,4 +1,6 @@
+// Modified GCD1
 // https://codeforces.com/gym/276996/problem/B
+// Author: Aman Kumar
 
 #include <bits/stdc++.h>
 
