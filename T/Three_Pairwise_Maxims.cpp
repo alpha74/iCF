@@ -1,5 +1,6 @@
 // Three Pairwise Maxims
 // https://codeforces.com/contest/1385/problem/A
+// Author: Aman Kumar
 // See condition comments.
 
 #include <bits/stdc++.h>
