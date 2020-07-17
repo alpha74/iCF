@@ -1,4 +1,6 @@
+// Cherry and Queries
 // https://codeforces.com/gym/277765/problem/E
+// Author: Aman Kumar
 
 #include <bits/stdc++.h>
 
