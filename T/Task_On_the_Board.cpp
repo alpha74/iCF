@@ -1,5 +1,3 @@
-
-```
 // https://codeforces.com/contest/1367/problem/C
 // Task On the Board
 // Author: Aman Kumar
@@ -120,5 +118,3 @@ int main()
 	}
 	return 0 ;
 }
-
-```
