@@ -4,7 +4,7 @@
 
 /*
 	INSIGHT:
-		
+		- Simple math
 */
 
 #include <bits/stdc++.h>
@@ -39,6 +39,7 @@ void func()
 	
 	int hh = 23, mm = 60 ;
 	
+	// Simple math
 	int left = (hh-h)*60 + (mm-m) ;
 	
 	cout << left << "\n" ;
