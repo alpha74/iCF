@@ -4,9 +4,7 @@
 
 /*
 	INSIGHT:
-		- Find index1 by (year-1) % n
-		- Find index2 by (year-1) % m
-*/
+		- Yes if: r<=g<=b : b <= r+b+1
 
 #include <bits/stdc++.h>
 
