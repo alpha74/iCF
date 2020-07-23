@@ -1,5 +1,5 @@
 // Way Too Long Words
-// https://codeforces.com/problemset/submit
+// https://codeforces.com/problemset/problem/71/A
 // Aman Kumar
 
 /*
