@@ -42,18 +42,14 @@ void func()
 	vector<int> arr1(n) ;
 	vector<int> arr2(n) ;
 	
-	int sum1 = 0, sum2 = 0 ;
-	
 	for( int i = 0 ; i < n ; i++ )
 	{
 		cin >> arr1[i] ;
-		sum1 += arr1[i] ;
 	}
 	
 	for( int i = 0 ; i < n ; i++ )
 	{
 		cin >> arr2[i] ;
-		sum2 += arr2[i] ;
 	}
 	
 	sort( arr1.begin(), arr1.end() ) ;
