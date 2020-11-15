@@ -53,13 +53,7 @@ void func()
 	
 	long long int sum = 0 ;
 	
-	for( int i = 0 ; i < face-1 ; i++ )
-	{
-		for( int j = 0 ; j < 4 ; j++ )
-		{
-			sum += (j+1) ;
-		}
-	}
+	sum += (face-1) * 10 ;
 	
 	for( int i = 0 ; i < num_digits ; i++ )
 	{
